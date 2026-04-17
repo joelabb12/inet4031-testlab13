@@ -16,13 +16,13 @@
 
 MARIADB_ROOT_PASSWORD="YOUR_ROOT_PASSWORD"
 MARIADB_DATABASE="ticketdb"
-MARIADB_USER="ticketuser"
+MARIADB_USER="flaskuser"
 MARIADB_PASSWORD="YOUR_PASSWORD"
 
 # These mirror the values above for the Flask app
 DB_HOST="db"
 DB_NAME="ticketdb"
-DB_USER="ticketuser"
+DB_USER="flaskuser"
 DB_PASSWORD="YOUR_PASSWORD"
 
 # ============================================================
