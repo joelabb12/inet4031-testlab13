@@ -67,3 +67,7 @@ This application was originally deployed using Docker Compose in Lab 12. In Lab 
 
 ```bash
 kubectl apply -f k8s/ -n ticket-app
+
+###Access URL
+
+http://192.168.56.2:30080
